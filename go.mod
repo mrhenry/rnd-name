@@ -1,3 +1,5 @@
 module github.com/mrhenry/rnd-name
 
-go 1.21.7
+go 1.26.10
+
+toolchain go1.27.3
